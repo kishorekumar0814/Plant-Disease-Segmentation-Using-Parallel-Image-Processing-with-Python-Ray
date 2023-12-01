@@ -69,29 +69,6 @@ Requirements
 
 <br><br>
 
-<!DOCTYPE html>
-<html>
-
-<head>
-  <style>
-    table {
-      font-family: Arial, sans-serif;
-      border-collapse: collapse;
-      width: 100%;
-    }
-
-    th, td {
-      border: 1px solid #dddddd;
-      text-align: left;
-      padding: 8px;
-    }
-
-    th {
-      background-color: #f2f2f2;
-    }
-  </style>
-</head>
-
 <body>
 
   <h2>Advantages and Disadvantages of Parallel Processing</h2>
