@@ -67,6 +67,11 @@ Requirements
 
 ![Figure_both](https://github.com/kishorekumar0814/Plant-Disease-Segmentation-Using-Parallel-Image-Processing-with-Python-Ray/assets/105975105/12d05f3e-208a-47a1-8566-c112a207146e)
 
+<div align="center">
+  <img src="https://github.com/kishorekumar0814/Plant-Disease-Segmentation-Using-Parallel-Image-Processing-with-Python-Ray/assets/105975105/12d05f3e-208a-47a1-8566-c112a207146e" alt="Figure_both" width="500"/>
+</div>
+
+
 <br><br>
 
 <body>
