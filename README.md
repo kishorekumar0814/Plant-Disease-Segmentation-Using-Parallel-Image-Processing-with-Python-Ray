@@ -41,3 +41,16 @@ This Python script demonstrates the parallel processing of plant images for dise
    - The script relies on the availability of a pre-trained MobileNetV2 model for image segmentation.
 
 This code showcases the implementation of parallel image processing with Python-Ray, providing insights into the performance gains achieved through parallelization in the context of plant disease segmentation.</p>
+
+<p>
+Requirements
+
+1) ray - pip install ray
+2) opencv-python - pip install opencv-python
+3) tensorflow - pip install tensorflow
+4) prettytable - pip install prettytable
+5) matplotlib - pip install matplotlib
+6) Numpy - pip install numpy
+
+</p>
+
