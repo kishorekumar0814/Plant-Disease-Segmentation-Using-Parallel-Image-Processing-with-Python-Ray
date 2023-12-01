@@ -53,4 +53,5 @@ Requirements
 6) Numpy - pip install numpy
 </p>
 
-<img src="https://drive.google.com/file/d/16wm1TaV2C5DXIpcd6oH2rfjSX6e4yOXc/view?usp=sharing" alt="Segmented Image">
+![1-s2 0-S221431732100024X-gr5](https://github.com/kishorekumar0814/Plant-Disease-Segmentation-Using-Parallel-Image-Processing-with-Python-Ray/assets/105975105/cc341971-cc3c-4716-a120-11b1ff9e6a71)
+
