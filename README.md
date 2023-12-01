@@ -53,6 +53,7 @@ Requirements
 6) Numpy - pip install numpy
 </p>
 <br>
+
 ## SEGMENTED IMAGES OF PLANT DISEASED LEAVES
 
 ![1-s2 0-S221431732100024X-gr5](https://github.com/kishorekumar0814/Plant-Disease-Segmentation-Using-Parallel-Image-Processing-with-Python-Ray/assets/105975105/cc341971-cc3c-4716-a120-11b1ff9e6a71)
@@ -65,3 +66,94 @@ Requirements
 ## SEQUENTIAL vs PARALLEL PROCESS EXECUTION TIME(in seconds) LINE-GRAPH 
 
 ![Figure_both](https://github.com/kishorekumar0814/Plant-Disease-Segmentation-Using-Parallel-Image-Processing-with-Python-Ray/assets/105975105/12d05f3e-208a-47a1-8566-c112a207146e)
+
+<br><br>
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <style>
+    table {
+      font-family: Arial, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    th, td {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+    }
+
+    th {
+      background-color: #f2f2f2;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h2>Advantages and Disadvantages of Parallel Processing</h2>
+
+  <h3>Advantages</h3>
+  <table>
+    <tr>
+      <th>Advantage</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td>Increased Performance and Speed</td>
+      <td>Parallel processing allows multiple tasks to be executed simultaneously, leading to a significant improvement in overall system performance.</td>
+    </tr>
+    <tr>
+      <td>Enhanced Throughput and Scalability</td>
+      <td>Parallel processing enables the efficient utilization of resources, making it easier to scale up computational power as needed.</td>
+    </tr>
+    <tr>
+      <td>Improved Resource Utilization</td>
+      <td>Parallel processing optimizes resource utilization by allowing multiple tasks to run concurrently, making better use of available hardware resources.</td>
+    </tr>
+    <tr>
+      <td>Effective Problem Solving for Parallelizable Tasks</td>
+      <td>Certain problems in fields like scientific computing, data analysis, and simulations are inherently parallelizable.</td>
+    </tr>
+    <tr>
+      <td>Energy Efficiency and Cost Savings</td>
+      <td>Parallel processing can lead to energy savings and cost efficiency by completing tasks more quickly and dynamically provisioning resources.</td>
+    </tr>
+  </table>
+
+  <h3>Disadvantages</h3>
+  <table>
+    <tr>
+      <th>Disadvantage</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td>Complex Programming and Debugging</td>
+      <td>Developing parallel programs is often more challenging than their sequential counterparts, leading to complex code that is harder to write and debug.</td>
+    </tr>
+    <tr>
+      <td>Limited Parallelization Potential</td>
+      <td>Not all tasks can be effectively parallelized, limiting the potential benefits of parallel processing.</td>
+    </tr>
+    <tr>
+      <td>Scalability Challenges</td>
+      <td>Scalability can be limited by factors such as communication overhead, contention for shared resources, and the nature of the problem being solved.</td>
+    </tr>
+    <tr>
+      <td>Increased Complexity of System Design</td>
+      <td>Implementing parallel processing systems requires careful consideration of hardware architecture, communication protocols, and load balancing.</td>
+    </tr>
+    <tr>
+      <td>Potential for Unpredictable Performance</td>
+      <td>The performance of parallel processing systems can be unpredictable due to factors such as varying workloads, contention for shared resources, and communication delays.</td>
+    </tr>
+  </table>
+
+</body>
+
+</html>
+
+
