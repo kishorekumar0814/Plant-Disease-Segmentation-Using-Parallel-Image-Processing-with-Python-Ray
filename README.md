@@ -52,6 +52,14 @@ Requirements
 5) matplotlib - pip install matplotlib
 6) Numpy - pip install numpy
 </p>
-
+<br>
+## SEGMENTED IMAGES OF PLANT DISEASED LEAVES
 ![1-s2 0-S221431732100024X-gr5](https://github.com/kishorekumar0814/Plant-Disease-Segmentation-Using-Parallel-Image-Processing-with-Python-Ray/assets/105975105/cc341971-cc3c-4716-a120-11b1ff9e6a71)
 
+## SEQUENTIAL LINE-GRAPH
+![Figure_seq](https://github.com/kishorekumar0814/Plant-Disease-Segmentation-Using-Parallel-Image-Processing-with-Python-Ray/assets/105975105/9400e7f5-8000-48bb-a658-e4857b42b90f)
+
+
+## SEQUENTIAL vs PARALLEL PROCESS EXECUTION TIME(in seconds) LINE-GRAPH 
+
+![Figure_both](https://github.com/kishorekumar0814/Plant-Disease-Segmentation-Using-Parallel-Image-Processing-with-Python-Ray/assets/105975105/12d05f3e-208a-47a1-8566-c112a207146e)
