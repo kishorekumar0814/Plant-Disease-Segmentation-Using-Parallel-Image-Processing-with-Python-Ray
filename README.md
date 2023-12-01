@@ -53,4 +53,4 @@ Requirements
 6) Numpy - pip install numpy
 </p>
 
-<img src= "[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mdpi.com%2F2624-7402%2F3%2F2%2F20&psig=AOvVaw2KZfz2e6q-etI-FVJHZ4si&ust=1701542064378000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDLrKbw7oIDFQAAAAAdAAAAABAE](https://ars.els-cdn.com/content/image/1-s2.0-S221431732100024X-gr5.jpg)https://ars.els-cdn.com/content/image/1-s2.0-S221431732100024X-gr5.jpg" alt="Segmented Image">
+<img src= "https://d3i71xaburhd42.cloudfront.net/aa8d9fa4ee083eb927e42485c071942109c12f09/5-Figure7-1.png" alt="Segmented Image">
