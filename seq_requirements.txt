@@ -1,0 +1,3 @@
+opencv-python==4.8.0.76
+prettytable==3.7.0
+matplotlib==3.8.0
