@@ -1,10 +1,6 @@
-Requirements
-
-1) ray - pip install ray
-2) opencv-python - pip install opencv-python
-3) tensorflow - pip install tensorflow
-4) prettytable - pip install prettytable
-5) matplotlib - pip install matplotlib
-6) Numpy - pip install numpy
-7) cv/cv2 - pip install cv/ pip install cv2 
-
+ray==2.6.0
+tensorflow==2.15.0
+opencv-python==4.8.0.76
+prettytable==3.7.0
+numpy==1.25.1
+matplotlib==3.8.0
